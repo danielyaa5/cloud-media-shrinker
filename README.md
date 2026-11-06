@@ -63,8 +63,8 @@ Review your Photos library, a folder on your Mac or an external drive, or a fold
 
 ## Support
 
-[Report a bug or request a feature](https://github.com/danielyaa5/photo-review/issues).
+[Report a bug or request a feature](https://github.com/danielyaa5/cloud-media-shrinker/issues).
 
-[Privacy policy](https://danielyaa5.github.io/photo-review/privacy.html)
+[Privacy policy](https://danielyaa5.github.io/cloud-media-shrinker/privacy.html)
 
 This repository contains product information and demo media. The application source code is maintained privately.
