@@ -65,6 +65,6 @@ Review your Photos library or choose a folder on your device. On Mac, you can al
 
 [Report a bug or request a feature](https://github.com/danielyaa5/cloud-media-shrinker/issues).
 
-[Privacy policy](https://danielyaa5.github.io/cloud-media-shrinker/privacy.html)
+[Privacy policy](https://danielyakobian.com/cloud-media-shrinker/privacy/)
 
 This repository contains product information and demo media. The application source code is maintained privately.
